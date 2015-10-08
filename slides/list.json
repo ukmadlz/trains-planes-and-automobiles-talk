@@ -1,18 +1,18 @@
 [
-  "index.html",
-  {
-    "filename": "notice.md",
-    "attr": {
-      "id": "notice"
-    }
-  },
-  {
-    "filename": "author.md",
-    "attr": {
-      "id": "author"
-    }
-  },
-  [
+    "index.html",
+    {
+        "filename": "notice.md",
+        "attr": {
+            "id": "notice"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    [
         "where-i-work.html",
         {
             "filename": "what-i-work-on.md",
@@ -38,5 +38,14 @@
                 "data-background": "images/headdesk.gif"
             }
         }
-    ]
+    ],
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/no-service.gif"
+        }
+    },
+    "offline-webapps.md",
+    "2nd-class.md",
+    "3-parts-of-offline-webapps.md"
 ]
