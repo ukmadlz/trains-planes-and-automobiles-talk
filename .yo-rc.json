@@ -1,0 +1,16 @@
+{
+  "generator-cds-talk": {
+    "presentationTitle": "No Service",
+    "presentationSubTitle": "",
+    "packageVersion": "0.0.1",
+    "revealLayout": "cloudant",
+    "revealTheme": "ibm-cds",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "no-service",
+    "authorName": "Mike Elsmore",
+    "authorJobTitle": "Developer Advocate",
+    "authorEmail": "mike.elsmore@uk.ibm.com"
+  }
+}

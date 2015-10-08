@@ -1,0 +1,42 @@
+[
+  "index.html",
+  {
+    "filename": "notice.md",
+    "attr": {
+      "id": "notice"
+    }
+  },
+  {
+    "filename": "author.md",
+    "attr": {
+      "id": "author"
+    }
+  },
+  [
+        "where-i-work.html",
+        {
+            "filename": "what-i-work-on.md",
+            "attr": {
+                "data-background": "#3B4B54"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/monkey-typewriter.gif"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/ponder.gif"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/headdesk.gif"
+            }
+        }
+    ]
+]
