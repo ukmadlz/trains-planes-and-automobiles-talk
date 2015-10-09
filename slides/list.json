@@ -114,5 +114,7 @@
         "attr": {
             "data-background": "images/exhausted-leonard.gif"
         }
-    }
+    },
+    "another-way.md",
+    "the-pouchdb-way.md"
 ]
