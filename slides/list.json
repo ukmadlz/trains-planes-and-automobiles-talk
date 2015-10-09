@@ -73,7 +73,46 @@
         }
     },
     "sql-in-the-browser.md",
+    "sql-in-the-browser-kinda.md",
+    "transactional-datastore-thats-relational.md",
     "browser-compatibility.html",
     "desktop-compatibility.html",
-    "mobile-compatibility.html"
+    "mobile-compatibility.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/hiddles-sad-times.gif"
+        }
+    },
+    "api-differences.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/box-rolling.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/magnifying-glass.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/abstract-loop.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/one-nail.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/exhausted-leonard.gif"
+        }
+    }
 ]
