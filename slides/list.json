@@ -57,8 +57,10 @@
         "app-cache.md",
         "httpwwwhtml5rockscomentutorialsappcachebeginner.md"
     ],
-    ["service-workers.md",
-    "httpwwwhtml5rockscomentutorialsservice-workerintroduction.md"],
+    [
+        "service-workers.md",
+        "httpwwwhtml5rockscomentutorialsservice-workerintroduction.md"
+    ],
     [
         "localstorage.md",
         "httpsdevelopermozillaorgendocswebapiwindowlocalstorage.md"
@@ -67,7 +69,11 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/lego-awesome.gif"
+            "data-background": "images/emma-thumbs-up.gif"
         }
-    }
+    },
+    "sql-in-the-browser.md",
+    "browser-compatibility.html",
+    "desktop-compatibility.html",
+    "mobile-compatibility.html"
 ]

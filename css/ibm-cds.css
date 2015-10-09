@@ -41,3 +41,12 @@ a {
     font-family: 'FontAwesome';
     font-style: normal;
 }
+
+.reveal table {
+  margin: 0 auto;
+}
+
+.reveal table th,
+.reveal table td {
+  text-align: center;
+}
