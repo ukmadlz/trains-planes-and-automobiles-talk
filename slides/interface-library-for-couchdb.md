@@ -1,0 +1,1 @@
+#  Interface library for CouchDB

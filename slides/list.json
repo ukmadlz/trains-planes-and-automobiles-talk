@@ -116,5 +116,9 @@
         }
     },
     "another-way.md",
-    "the-pouchdb-way.md"
+    "the-pouchdb-way.md",
+    "so-whats-special.md",
+    "in-browser-client.md",
+    "local-database-on-leveldb.md",
+    "interface-library-for-couchdb.md"
 ]
