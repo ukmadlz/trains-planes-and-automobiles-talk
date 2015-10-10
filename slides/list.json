@@ -120,5 +120,9 @@
     "so-whats-special.md",
     "in-browser-client.md",
     "local-database-on-leveldb.md",
-    "interface-library-for-couchdb.md"
+    "interface-library-for-couchdb.md",
+    "get-started.md",
+    "in-nodejs.md",
+    "in-browser.html",
+    "as-a-client.md"
 ]
