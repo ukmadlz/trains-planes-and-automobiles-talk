@@ -117,6 +117,12 @@
     },
     "another-way.md",
     "the-pouchdb-way.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/lego-awesome.gif"
+        }
+    },
     "so-whats-special.md",
     "in-browser-client.md",
     "local-database-on-leveldb.md",
@@ -124,5 +130,10 @@
     "get-started.md",
     "in-nodejs.md",
     "in-browser.html",
-    "as-a-client.md"
+    "as-a-client.md",
+    "json-document.md",
+    "create.md",
+    "read.md",
+    "update.md",
+    "deletedestroy.md"
 ]
