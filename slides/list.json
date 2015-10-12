@@ -161,5 +161,11 @@
     },
     "codez.md",
     "round-up.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/noodles.gif"
+        }
+    },
     "questions.md"
 ]
