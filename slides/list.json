@@ -143,5 +143,20 @@
     "attachments.md",
     "query.md",
     "replication.md",
-    "sync.md"
+    "sync.md",
+    "magic-bit.md",
+    "cloudant.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/sherlock-dont-know.gif"
+        }
+    },
+    "couchdb.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/spidey-danger.gif"
+        }
+    }
 ]
