@@ -141,5 +141,7 @@
     "bulk-actions.md",
     "changes.md",
     "attachments.md",
-    "query.md"
+    "query.md",
+    "replication.md",
+    "sync.md"
 ]
