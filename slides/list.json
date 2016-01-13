@@ -116,6 +116,7 @@
         }
     },
     "another-way.md",
+    "the-other-ways.md",
     "the-pouchdb-way.md",
     {
         "filename": "blank.md",
@@ -161,12 +162,5 @@
     },
     "codez.md",
     "round-up.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/noodles.gif"
-        }
-    },
-    "questions.md",
-    "outtatime.md"
+    "questions.md"
 ]

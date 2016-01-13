@@ -1,3 +1,3 @@
-## ~~localForage~~
+## localForage
 
 ![PouchDB](images/pouchdb.png)
