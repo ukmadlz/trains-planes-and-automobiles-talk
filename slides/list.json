@@ -56,10 +56,12 @@
     },
     [
         "app-cache.md",
+        "appcache-gotcha.md",
         "httpwwwhtml5rockscomentutorialsappcachebeginner.md"
     ],
     [
         "service-workers.md",
+        "they-are-awesome.md",
         "httpwwwhtml5rockscomentutorialsservice-workerintroduction.md"
     ],
     [
@@ -163,6 +165,6 @@
     },
     "codez.md",
     "round-up.md",
-    "questions.md",
-    "scotlandjs.md"
+    "end.html",
+    "questions.md"
 ]
