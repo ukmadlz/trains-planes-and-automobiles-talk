@@ -8,3 +8,6 @@ db.get('brumjs', function(err, doc) {
   // handle doc
 });
 ```
+```java
+datastore.getDocument("droidcon");
+```

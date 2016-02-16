@@ -11,3 +11,12 @@ db.get('brumjs', function(err, doc) {
   });
 });
 ```
+```java
+
+datastore.deleteDocumentRevision(rev);
+
+// Or
+
+datastore.deleteDocument("droidcon");
+
+```

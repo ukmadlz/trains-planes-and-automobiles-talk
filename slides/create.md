@@ -8,3 +8,8 @@ db.post(doc, function (err, response) {
   // handle response
 });
 ```
+
+
+```java
+DocumentRevision rev = datastore.createDocumentFromRevision(reision);
+```

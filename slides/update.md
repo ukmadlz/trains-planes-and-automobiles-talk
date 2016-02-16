@@ -15,3 +15,14 @@ db.get('brumjs', function(err, doc) {
   });
 });
 ```
+
+```java
+
+DocumentRevision rev = datastore.getDocument("droidcon");
+MutableDocumentRevision mutable = rev.mutableCopy();
+Map<String,Object> body = rev.body.asMap();
+body.put("talk","Planes, Trains & Automobiles");
+mutable.body = DocumentBodyFactory.create(body);
+
+rev = datastore.updateDocumentFromRevision(mutable);
+```
