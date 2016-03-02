@@ -3,14 +3,14 @@
 Android:
 
 ```java
-Changes changes = ds.changes(0, 25);
+Changes changes = datastore.changes(0, 25);
 
 for (DocumentRevision rev : changes.getResults()){
     // do something with the change
 }
 
 // get the next set of changes
-changes = ds.changes(changes.getLastSequence(),25);
+changes = datastore.changes(changes.getLastSequence(),25);
 
 //process those changes.
 ```
