@@ -15,6 +15,8 @@ changes = ds.changes(changes.getLastSequence(),25);
 //process those changes.
 ```
 
+Javascript:
+
 ```javascript
 db.changes(options);
 
