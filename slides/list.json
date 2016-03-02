@@ -50,13 +50,19 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/abstract-loop.gif"
+            "data-background": "images/in-the-database.gif"
         }
     },
     {
         "filename": "blank.md",
         "attr": {
             "data-background": "images/one-nail.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/abstract-loop.gif"
         }
     },
     {
