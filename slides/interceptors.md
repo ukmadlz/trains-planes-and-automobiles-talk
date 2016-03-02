@@ -12,7 +12,7 @@ public class LoggingInterceptor implements HttpConnectionRequestInterceptor, Htt
     public HttpConnectionInterceptorContext interceptRequest(HttpConnectionInterceptorContext context) {
 
         HttpURLConnection connection = context.connection.getConnection();
-        logger.info("Making request to "+connection.getURL().toString());
+        logger.info("Making request to "+connection.getURL();
         return context;
 
     }
