@@ -3,7 +3,7 @@
 ```
 db.put(doc, [docId], [docRev], [options], [callback]);
 
-db.get('brumjs', function(err, doc) {
+db.get('droidcon', function(err, doc) {
   if (err) { return console.log(err); }
   db.put({
     _id: 'droidcon',
