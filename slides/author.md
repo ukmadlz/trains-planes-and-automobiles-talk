@@ -5,6 +5,6 @@
 #### mike.elsmore@uk.ibm.com
 
 
-### Rhys Short - Sofware Engineer
+### Rhys Short - Software Engineer
 
 #### rhyshort@uk.ibm.com
