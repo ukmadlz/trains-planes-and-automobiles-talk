@@ -91,7 +91,7 @@
     "changes.md",
     "query.md",
     "replication.md",
-    "sync.md",
+    "interceptors.md",
     "magic-bit.md",
     "cloudant.md",
     {
