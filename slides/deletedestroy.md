@@ -3,13 +3,11 @@
 
 Android:
 ```java
-
 datastore.deleteDocumentRevision(rev);
 
 // Or
 
 datastore.deleteDocument("droidcon");
-
 ```
 Javascript:
 
