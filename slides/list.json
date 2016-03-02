@@ -116,5 +116,11 @@
     "codez.md",
     "round-up.md",
     "end.html",
-    "questions.md"
+    "questions.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/pub.gif"
+        }
+    }
 ]
