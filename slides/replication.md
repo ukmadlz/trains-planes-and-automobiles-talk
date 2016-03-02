@@ -4,6 +4,8 @@ Android:
 
 ```java
 URL remoteDB = new URL("http://example.com/db");
+
+// pull
 Replicator pull = ReplicatorBuilder.pull().from(remoteDB).to(datastore).build();
 pull.start();
 
