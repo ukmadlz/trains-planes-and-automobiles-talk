@@ -4,7 +4,8 @@
 DocumentException
 ```
 
-Casues:
+causes:
 
 - Document not found, missing
-- Conflict 
+- Conflict
+ 
