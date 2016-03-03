@@ -1,3 +1,10 @@
 ##  Delete Destroy Exception
 
-This is a new Markdown slide
+```java
+DocumentException
+```
+
+Casues:
+
+- Document not found, missing
+- Conflict 
