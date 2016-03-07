@@ -1,6 +1,4 @@
-##  Interceptors
-
-Android
+#  Interceptors
 
 ```java
 

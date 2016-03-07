@@ -1,4 +1,4 @@
-##  Update Exception
+#  Update Exception
 
 ```java
 DocumentException
@@ -7,4 +7,4 @@ DocumentException
 Casues:
 
 - Document not found (missing)
-- Conflict.
+- Conflict

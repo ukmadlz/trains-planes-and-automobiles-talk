@@ -15,6 +15,7 @@ push.start();
 
 ```
 
+Javascript:
 
 ```
 PouchDB.replicate(source, target, [options]);

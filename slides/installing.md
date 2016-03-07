@@ -1,9 +1,11 @@
-#### Android
+# Installing
+
+#### Android:
 ```java
 compile 'com.cloudant:cloudant-sync-datastore-android:latest.release'
 ```
 
-#### Javascript
+#### Javascript:
 ```bash
 npm install --save pouchdb
 ```
