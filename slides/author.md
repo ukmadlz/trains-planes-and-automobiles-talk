@@ -1,7 +1,9 @@
-#  Who am I?
+#  Who Are We?
 
-## Mike Elsmore
+### Rhys Short - Software Engineer
 
-#### Developer Advocate
+#### rhyshort@uk.ibm.com
+
+### Mike Elsmore - Developer Advocate
 
 #### mike.elsmore@uk.ibm.com
