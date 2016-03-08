@@ -48,6 +48,7 @@
     "follow-along.md",
     "offline-webapps.md",
     "cross-platform.html",
+    "cross-platform-not-ios.html",
     {
         "filename": "blank.md",
         "attr": {
