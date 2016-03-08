@@ -47,6 +47,7 @@
     },
     "follow-along.md",
     "offline-webapps.md",
+    "cross-platform.html",
     {
         "filename": "blank.md",
         "attr": {
@@ -87,15 +88,27 @@
         "create.md",
         "create-exception.md"
     ],
-    ["read.md",
-    "read-exception.md"],
-    ["update.md",
-    "update-exception.md"],
-    ["deletedestroy.md",
-    "delete-destroy-exception.md"],
+    [
+        "read.md",
+        "read-exception.md"
+    ],
+    [
+        "update.md",
+        "update-exception.md"
+    ],
+    [
+        "deletedestroy.md",
+        "delete-destroy-exception.md"
+    ],
     "thats-the-basicsnow-what.md",
-    ["changes-android.md","changes-javascript.md"],
-    ["query-android.md","query-javascript.md"],
+    [
+        "changes-android.md",
+        "changes-javascript.md"
+    ],
+    [
+        "query-android.md",
+        "query-javascript.md"
+    ],
     "replication.md",
     "interceptors.md",
     "magic-bit.md",
