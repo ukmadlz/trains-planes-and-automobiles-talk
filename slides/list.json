@@ -51,6 +51,12 @@
     {
         "filename": "blank.md",
         "attr": {
+            "data-background": "images/box-rolling.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
             "data-background": "images/in-the-database.gif"
         }
     },
