@@ -47,6 +47,14 @@
     },
     "follow-along.md",
     "offline-webapps.md",
+    "cross-platform.html",
+    "cross-platform-not-ios.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/bb8-rolling.gif"
+        }
+    },
     {
         "filename": "blank.md",
         "attr": {
@@ -87,16 +95,29 @@
         "create.md",
         "create-exception.md"
     ],
-    ["read.md",
-    "read-exception.md"],
-    ["update.md",
-    "update-exception.md"],
-    ["deletedestroy.md",
-    "delete-destroy-exception.md"],
+    [
+        "read.md",
+        "read-exception.md"
+    ],
+    [
+        "update.md",
+        "update-exception.md"
+    ],
+    [
+        "deletedestroy.md",
+        "delete-destroy-exception.md"
+    ],
     "thats-the-basicsnow-what.md",
-    ["changes-android.md","changes-javascript.md"],
-    ["query-android.md","query-javascript.md"],
+    [
+        "query-android.md",
+        "query-javascript-ddoc.md",
+        "query-javascript-mapreduce.md"
+    ],
     "replication.md",
+    [
+        "changes-android.md",
+        "changes-javascript.md"
+    ],
     "interceptors.md",
     "magic-bit.md",
     "cloudant.md",
