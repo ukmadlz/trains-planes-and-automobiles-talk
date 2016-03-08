@@ -114,7 +114,8 @@
     ],
     [
         "query-android.md",
-        "query-javascript.md"
+        "query-javascript-ddoc.md",
+        "query-javascript-mapreduce.md"
     ],
     "replication.md",
     "interceptors.md",
