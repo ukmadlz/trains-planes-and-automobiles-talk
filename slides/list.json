@@ -108,17 +108,17 @@
         "delete-destroy-exception.md"
     ],
     "thats-the-basicsnow-what.md",
+    [
+        "query-android.md",
+        "query-javascript-ddoc.md",
+        "query-javascript-mapreduce.md"
+    ],
     "replication.md",
     [
         "changes-android.md",
         "changes-javascript.md"
     ],
     "interceptors.md",
-    [
-        "query-android.md",
-        "query-javascript-ddoc.md",
-        "query-javascript-mapreduce.md"
-    ],
     "magic-bit.md",
     "cloudant.md",
     {
