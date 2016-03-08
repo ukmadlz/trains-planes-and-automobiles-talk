@@ -8,7 +8,7 @@ DatastoreManager manager = new DatastoreManager(
 Datastore ds = manmager.openDatastore("droidConRo16");
 ```
 
-javascript:
+Javascript:
 ```javascript
 var db = new PouchDB('my_database');
 ```
