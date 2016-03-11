@@ -92,20 +92,16 @@
     "instantiating.md",
     "json-document.md",
     [
-        "create.md",
-        "create-exception.md"
+        "create.md"
     ],
     [
-        "read.md",
-        "read-exception.md"
+        "read.md"
     ],
     [
-        "update.md",
-        "update-exception.md"
+        "update.md"
     ],
     [
-        "deletedestroy.md",
-        "delete-destroy-exception.md"
+        "deletedestroy.md"
     ],
     "thats-the-basicsnow-what.md",
     [
@@ -137,11 +133,17 @@
     "codez.md",
     "round-up.md",
     "end.html",
-    "questions.md",
+    ["questions.md",
+    "appendix.md",
+    "create-exception.md",
+    "read-exception.md",
+    "update-exception.md",
+    "delete-destroy-exception.md"],
     {
         "filename": "blank.md",
         "attr": {
             "data-background": "images/pub.gif"
         }
-    }
+    },
+    "appendix.md"
 ]
