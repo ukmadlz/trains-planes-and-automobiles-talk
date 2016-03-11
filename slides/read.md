@@ -15,3 +15,9 @@ db.get('droidcon', function(err, doc) {
   // handle doc
 });
 ```
+notes:
+
+    Skip conflicts
+    Don't talk too much detail on interceptors
+    keep it simple
+    talk more about arch in the round about here's how it all looks.
