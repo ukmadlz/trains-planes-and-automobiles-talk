@@ -15,8 +15,7 @@ db.get('droidcon', function(err, doc) {
   // handle doc
 });
 ```
-notes:
-
+note:
     Skip conflicts
     Don't talk too much detail on interceptors
     keep it simple
