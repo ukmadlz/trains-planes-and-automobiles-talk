@@ -133,12 +133,15 @@
     "codez.md",
     "round-up.md",
     "end.html",
-    ["questions.md",
-    "appendix.md",
-    "create-exception.md",
-    "read-exception.md",
-    "update-exception.md",
-    "delete-destroy-exception.md"],
+    [
+        "questions.md",
+        "appendix.md",
+        "replication-diagram.md",
+        "create-exception.md",
+        "read-exception.md",
+        "update-exception.md",
+        "delete-destroy-exception.md"
+    ],
     {
         "filename": "blank.md",
         "attr": {
