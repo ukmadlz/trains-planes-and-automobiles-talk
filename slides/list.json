@@ -137,6 +137,7 @@
         "questions.md",
         "appendix.md",
         "replication-diagram.md",
+        "conflicts.md",
         "create-exception.md",
         "read-exception.md",
         "update-exception.md",
