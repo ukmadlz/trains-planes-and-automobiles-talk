@@ -147,11 +147,11 @@
               $.get('https://droidconro.eu-gb.mybluemix.net?user=droidconro16', function(data) {
                 var db = PouchDB('droidconro16');
                 db.sync(data.url);
-                db.allDocs({include_docs: true}, function(err, body){
-                  $.each(body.rows, function(key, data) {
-                    notify(data);
-                  });
-                });
+                // db.allDocs({include_docs: true}, function(err, body){
+                //   $.each(body.rows, function(key, data) {
+                //     notify(data);
+                //   });
+                // });
                 db.changes({
                   since: 'now',
                   live: true,
