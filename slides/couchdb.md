@@ -1,5 +1,5 @@
 #  CouchDB
 
 
-notes:
+note:
     - mention MVCC as part of replication.
